@@ -129,6 +129,7 @@ fill: currentColor;
 
 
 .hero{
+    position: relative;
 width: 1600px;
 text-align: center;
 margin: 0 auto;
